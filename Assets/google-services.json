@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018576794816",
+    "project_id": "zougpt-74328",
+    "storage_bucket": "zougpt-74328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018576794816:android:b120c0cb4bd861fad0e925",
+        "android_client_info": {
+          "package_name": "com.ChatGPT.ZouGPT"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0dii3PvjAefnTfxWiGvwZyDlKdbhCh_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
